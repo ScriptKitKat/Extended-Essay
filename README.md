@@ -6,3 +6,9 @@ Exploring Different Gradient Descent Techniques Mathematically And Impact On Con
 Research Question: How do different gradient descent methods (Vanilla and Newton's) impact the number of iterations for convergence in training a linear regression machine learning algorithm? 
 
 Feel free to read my Extended Essay ❤️
+
+A couple of things I learned:
+- Latex
+- Machine learning
+- Hessian Matrix
+- Calculus and its applications
